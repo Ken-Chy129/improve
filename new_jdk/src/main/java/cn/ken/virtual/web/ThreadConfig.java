@@ -1,4 +1,4 @@
-package cn.ken.web;
+package cn.ken.virtual.web;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.web.embedded.tomcat.TomcatProtocolHandlerCustomizer;

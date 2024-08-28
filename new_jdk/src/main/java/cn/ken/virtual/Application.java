@@ -1,4 +1,4 @@
-package cn.ken;
+package cn.ken.virtual;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

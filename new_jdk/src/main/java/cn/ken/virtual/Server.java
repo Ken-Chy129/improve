@@ -1,4 +1,4 @@
-package cn.ken;
+package cn.ken.virtual;
 
 import java.io.BufferedReader;
 import java.io.IOException;

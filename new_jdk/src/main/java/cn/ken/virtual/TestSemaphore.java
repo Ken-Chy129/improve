@@ -1,4 +1,4 @@
-package cn.ken;
+package cn.ken.virtual;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
