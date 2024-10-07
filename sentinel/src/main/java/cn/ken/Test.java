@@ -41,6 +41,9 @@ public class Test {
             }
         }
 
+        while (true) {
+
+        }
     }
 
     @SentinelResource("hello")
